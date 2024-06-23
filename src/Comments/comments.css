@@ -1,0 +1,28 @@
+h1 {
+    margin-left: 40px;
+}
+
+.picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.bigrows {
+    row-span: 4;
+}
+
+table {
+    border: 1px solid;
+    margin-left: 40px;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+
+
+
+.subcomment {
+    margin-left: 80px;
+}
